@@ -11,48 +11,30 @@
         }
       },
       {
-        "package": "SKClient",
-        "repositoryURL": "https://github.com/SlackKit/SKClient",
+        "package": "Core",
+        "repositoryURL": "https://github.com/vapor/core.git",
         "state": {
           "branch": null,
-          "revision": "008e10a402f17519750a5b94c4cf6b16310abf18",
-          "version": "4.1.0"
+          "revision": "c64f63cb21631010952f7abfef719d376ab6a441",
+          "version": "3.9.1"
         }
       },
       {
-        "package": "SKCore",
-        "repositoryURL": "https://github.com/SlackKit/SKCore",
+        "package": "Crypto",
+        "repositoryURL": "https://github.com/vapor/crypto.git",
         "state": {
           "branch": null,
-          "revision": "b50637bb233308e15869c1aef77d20f4e1e10e2e",
-          "version": "4.1.3"
+          "revision": "df8eb7d8ae51787b3a0628aa3975e67666da936c",
+          "version": "3.3.3"
         }
       },
       {
-        "package": "SKRTMAPI",
-        "repositoryURL": "https://github.com/SlackKit/SKRTMAPI",
+        "package": "HTTP",
+        "repositoryURL": "https://github.com/vapor/http.git",
         "state": {
           "branch": null,
-          "revision": "c46f78c588e619c0d547ecae264d77dfaff5c0f0",
-          "version": "4.1.2"
-        }
-      },
-      {
-        "package": "SKServer",
-        "repositoryURL": "https://github.com/SlackKit/SKServer",
-        "state": {
-          "branch": null,
-          "revision": "ee058e13e7bc0ef76b7f9abfd8182e806eb158b9",
-          "version": "4.1.2"
-        }
-      },
-      {
-        "package": "SKWebAPI",
-        "repositoryURL": "https://github.com/SlackKit/SKWebAPI",
-        "state": {
-          "branch": null,
-          "revision": "b5b303c7e5cdecd587499061a81128ef4d7ed3f1",
-          "version": "4.1.3"
+          "revision": "3808ed0401379b6e9f4a053f03090ea9d658caa9",
+          "version": "3.2.1"
         }
       },
       {
@@ -60,8 +42,8 @@
         "repositoryURL": "https://github.com/SlackKit/SlackKit.git",
         "state": {
           "branch": null,
-          "revision": "c2f3731a69df85f852d089839edd14b6ed461b02",
-          "version": "4.1.0"
+          "revision": "267cf26b2e3d04ed2e3e9864e4d023c99287af82",
+          "version": "4.4.0"
         }
       },
       {
@@ -78,8 +60,44 @@
         "repositoryURL": "https://github.com/daltoniam/Starscream",
         "state": {
           "branch": null,
-          "revision": "ebdc260ea64e68f7569c62e8744b5cd15d3a49d6",
-          "version": "3.0.6"
+          "revision": "9c03ef715d1bc9334b446c90df53586dd38cf849",
+          "version": "3.1.0"
+        }
+      },
+      {
+        "package": "swift-nio",
+        "repositoryURL": "https://github.com/apple/swift-nio.git",
+        "state": {
+          "branch": null,
+          "revision": "ba7970fe396e8198b84c6c1b44b38a1d4e2eb6bd",
+          "version": "1.14.1"
+        }
+      },
+      {
+        "package": "swift-nio-ssl",
+        "repositoryURL": "https://github.com/apple/swift-nio-ssl.git",
+        "state": {
+          "branch": null,
+          "revision": "0f3999f3e3c359cc74480c292644c3419e44a12f",
+          "version": "1.4.0"
+        }
+      },
+      {
+        "package": "swift-nio-ssl-support",
+        "repositoryURL": "https://github.com/apple/swift-nio-ssl-support.git",
+        "state": {
+          "branch": null,
+          "revision": "c02eec4e0e6d351cd092938cf44195a8e669f555",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "swift-nio-zlib-support",
+        "repositoryURL": "https://github.com/apple/swift-nio-zlib-support.git",
+        "state": {
+          "branch": null,
+          "revision": "37760e9a52030bb9011972c5213c3350fa9d41fd",
+          "version": "1.0.0"
         }
       },
       {
@@ -87,8 +105,17 @@
         "repositoryURL": "https://github.com/httpswift/swifter.git",
         "state": {
           "branch": null,
-          "revision": "f76bf391e127333a371e45c4e75f52f71cfd144f",
-          "version": "1.4.5"
+          "revision": "8b5afb48ae64d4f729f0489ddcfe09c62b9c3687",
+          "version": "1.4.7"
+        }
+      },
+      {
+        "package": "WebSocket",
+        "repositoryURL": "https://github.com/vapor/websocket",
+        "state": {
+          "branch": null,
+          "revision": "d85e5b6dce4d04065865f77385fc3324f98178f6",
+          "version": "1.1.2"
         }
       }
     ]
